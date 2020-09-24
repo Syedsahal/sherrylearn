@@ -1,0 +1,21 @@
+#main{
+    display: inline-flex;
+    padding-left: 450px;
+    padding-top: 100px;
+    margin: 15px;
+    text-align: center;
+}
+#div1{
+    width: 400px;
+    height: 500px;
+    font-size: x-large;
+    font-family: sans-serif ;
+    
+
+}
+p{
+    font-size: large;text-align: center;
+}
+form{
+    
+}
